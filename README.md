@@ -1,61 +1,59 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is João
-=============================================================================================================================
+```markdown
+# Hi there, I'm João Vitor Custódio Dalla Rosa 👋
 
-DevSecOps Engineer | Cloud Security | DevOps | SysAdmin
-------------------------------------------------------
+I'm a passionate DevOps enthusiast, cloud security advocate, and infrastructure automation aficionado based in Brazil. With a dedicated focus on enhancing development workflows through automation and scalability practices, I strive to contribute to the tech community by sharing my knowledge and encouraging open-source collaboration.
 
-* 👥 I’m looking to collaborate on **Helm charts**, **Terraform modules**, **cloud security projects**, and **DevSecOps tooling**
-* 💬 Feel free to reach out if you’d like to collaborate, exchange ideas, or talk about **DevSecOps, cloud security, and automation**
-* ⚡ Fun fact: I enjoy turning security controls into code — if it can be automated, it should be
+## 🚀 Quick Overview
 
----
+🔭 62 Commits • 14 Pull Requests • 3 Followers • 13 Following
+🌱 Tech Stack: Terraform, HCL, DevOps Tools
+⚡️ Recent Projects: [aws-oidc-trust-examples](https://github.com/joaodll/aws-oidc-trust-examples)
+🏆 Most Starred Repository: [devops-stack-tools](https://github.com/joaodll/devops-stack-tools)
 
-### 🛠️ Tech & Tools
+## 🛠️ Technologies and Tools
 
-<p align="left">
+```javascript
+const joao = {
+ pronouns: "He" | "Him",
+ code: ["Terraform", "HCL"],
+ askMeAbout: ["DevOps", "Cloud Security", "Automation"],
+ technologies: {
+     backEnd: {
+         terraform: ["Infrastructure as Code"],
+     },
+     devOps: ["Docker", "Kubernetes", "Ansible"],
+     cloud: ["AWS", "Azure"],
+     misc: ["Git", "Jenkins", "Monitoring Tools"]
+ },
+ currentFocus: "Enhancing cloud security practices",
+ funFact: "DevOps is not just a set of tools, but a culture and mindset to foster collaboration and agility"
+};
+```
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
+## 📊 GitHub Stats
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=joaodll&show_icons=true&count_private=true&theme=dark)
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" />
-</a>
+## 💬 Connect with Me
 
-<a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" />
-</a>
+📧 Reach out via [Email](mailto:your-email@example.com)
+👔 Connect on [LinkedIn](https://www.linkedin.com/in/your-profile)
+🌐 Visit my [Website](https://www.your-website.com)
 
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" />
-</a>
+## 🏆 Honors and Trophies
 
-<a href="https://helm.sh/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/helm-colored.svg" width="36" height="36" alt="Helm" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=joaodll)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" />
-</a>
+## 🌟 Recent Activity
 
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-</a>
+- Created `devops-stack-tools` repository
+- Worked on `terraform-aws-guardduty-module`
+- Contributed to `first-contributions`
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-</a>
+## 🚀 Let's Collaborate
 
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
-</a>
+I'm open to collaborations and discussions on DevOps, cloud technologies, and automation practices. Feel free to explore my repositories and reach out for further engagement!
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-</a>
+```
 
-</p>
+Feel free to adjust the content, styles, and elements as needed to better match your desired outcome.
