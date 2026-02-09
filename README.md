@@ -32,9 +32,7 @@ Feel free to reach out if you’d like to collaborate, exchange ideas, or talk a
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaodll&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodll&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaodll&theme=tokyonight" alt="GitHub Streak" />
 
