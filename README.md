@@ -5,7 +5,7 @@
 
 Feel free to reach out if you’d like to collaborate, exchange ideas, or talk about DevSecOps, cloud security, and automation.
 
-## Skills
+## Languages and Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
@@ -29,10 +29,3 @@ Feel free to reach out if you’d like to collaborate, exchange ideas, or talk a
 <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaodll&theme=tokyonight" alt="GitHub Streak" />
-
